@@ -7,7 +7,7 @@ const courses = [
     category: "stuff",
   },
   {
-    id: 1,
+    id: 2,
     title: "title of the good",
     slug: "good-course",
     authorId: 2,

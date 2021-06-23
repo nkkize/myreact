@@ -1,1 +1,1 @@
-{"courses":[{"id":1,"title":"title of the bad","slug":"bad-course","authorId":1,"category":"stuff"},{"id":1,"title":"title of the good","slug":"good-course","authorId":2,"category":"more stuff"}],"authors":[{"id":1,"name":"narender"},{"id":2,"name":"kavya"}]}
+{"courses":[{"id":1,"title":"title of the bad","slug":"bad-course","authorId":1,"category":"stuff"},{"id":2,"title":"title of the good","slug":"good-course","authorId":2,"category":"more stuff"}],"authors":[{"id":1,"name":"narender"},{"id":2,"name":"kavya"}]}
