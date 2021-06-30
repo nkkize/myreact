@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import PropType from "prop-types";
 
 const TextInput = ({ name, label, onChange, placeholder, value, error }) => {

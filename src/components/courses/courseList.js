@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 // thsi accepts props
 const CourseList = ({ courses }) => (
-  <table classNAme="table">
+  <table className="table">
     <thead>
       <tr>
         <th />

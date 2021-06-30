@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import PropType from "prop-types";
 
 const SelectInput = ({
@@ -35,7 +35,7 @@ const SelectInput = ({
   );
 };
 
-TextInput.PropType = {
+SelectInput.PropType = {
   name: PropType.string.isRequired,
   label: PropType.string.isRequired,
   onChange: PropType.func.isRequired,
